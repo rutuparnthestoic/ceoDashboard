@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Handlee&family=Inter:wght@400;600;700&family=Poppins&family=Source+Sans+3:wght@400;600;700&display=swap');
+
+html,
+body,
+#root,
+.app{
+    height: 100%;
+    width: 100%;
+    font-family: "Inter", sans-serif;
+}
